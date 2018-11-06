@@ -3,8 +3,4 @@ This is a change - hope you don't mind.
 Cool-stuff change - in cool-stuff branch
 
 Rad change - in RAD banch
-=======
-More changes #2
-Still more changes #2
-=======
-Cool-stuff change - in cool-stuff branch
+Check in master branch
